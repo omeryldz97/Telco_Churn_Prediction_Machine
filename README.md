@@ -1,2 +1,2 @@
 # Telco_Churn_Prediction
- Telco_Churn
+ I developed a machine learning model that can predict customers leaving the company.
